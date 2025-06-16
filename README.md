@@ -1,6 +1,20 @@
 # 🚀 ViteAssistant - Crypto Dashboard
 
-A comprehensive cryptocurrency dashboard built with modern web technologies. This application provides real-time blockchain data visualization, wallet balance tracking, and DeFi integration with a sleek, responsive interface.
+## 📖 About
+
+ViteAssistant is a comprehensive cryptocurrency dashboard built with modern web technologies. This application provides real-time blockchain data visualization, wallet balance tracking, and DeFi integration with a sleek, responsive interface.
+
+### What it does:
+- **Portfolio Management**: Track your cryptocurrency balances across multiple blockchain networks
+- **Real-time Data**: Get live price feeds for Bitcoin and customizable altcoins
+- **DeFi Integration**: Monitor your Venus Protocol positions on Binance Smart Chain
+- **Modern UX**: Enjoy a responsive, mobile-first design built with React 19 and Tailwind CSS
+
+### Perfect for:
+- Crypto enthusiasts who want to monitor their portfolio in real-time
+- DeFi users tracking lending/borrowing positions
+- Developers looking for a modern React + Web3 integration example
+- Anyone interested in clean, professional crypto dashboard interfaces
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
@@ -37,7 +51,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ViteAssistant.git
+git clone https://github.com/JamesR-Ch/ViteAssistant.git
 cd ViteAssistant
 ```
 
@@ -179,7 +193,7 @@ We welcome contributions to ViteAssistant! Here's how you can help:
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/ViteAssistant/issues) page
+1. Check the [Issues](https://github.com/JamesR-Ch/ViteAssistant/issues) page
 2. Create a new issue with detailed information
 3. Join our community discussions
 
@@ -187,8 +201,15 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Built with ❤️ using Claude Code**
+**Developed by [JamesR-Ch](https://github.com/JamesR-Ch) with ❤️ using Claude Code**
 
 *ViteAssistant - Your Gateway to DeFi Portfolio Management*
 
 </div>
+
+## 👨‍💻 Credits & Acknowledgments
+
+- **Developer**: [JamesR-Ch](https://github.com/JamesR-Ch) - Project owner and maintainer
+- **AI Assistant**: Built with [Claude Code](https://claude.ai/code) - Code generation and documentation
+- **Architecture**: Modern React 19 + TypeScript + Vite stack
+- **Design**: Custom Tailwind CSS components with responsive design
